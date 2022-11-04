@@ -1,4 +1,4 @@
-//factorial de 10
+//factorial de 10 while
 
 let factorial = 10
 let i= 9

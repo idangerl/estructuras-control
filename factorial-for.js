@@ -1,4 +1,4 @@
-//factorial numero 10
+//factorial numero 10 for 
 
 let factorial = 10;
 
